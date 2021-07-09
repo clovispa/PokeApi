@@ -33,6 +33,7 @@ se utilizo vue-clipboard2 dependencia para copiar texto a portapapeles,
 al principo la api no dejaba consumir el servicio por temas de cors
 solucionandolo con la configuracion de un proxi local en el archivo vue.config.js
 para la distribucion de datos entre los componentes padres e hijos utilizo vuex ,
-axios como cliente HTTP 
+axios como cliente HTTP, se trabajo en dos ramas (master, dev) en la que se fueron subiendo cambios
+a dev para posteriormente pasarlos a master
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
