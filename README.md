@@ -1,4 +1,4 @@
-# full
+# final
 
 ## Project setup
 ```
